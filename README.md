@@ -5,7 +5,7 @@ This repository contains a simple ETL (Extract, Transform, Load) script named `m
 ## Project Structure
 
 - `data_source`: Folder to store the downloaded and extracted data files.
-- `etl_practice.py`: Python script implementing the ETL pipeline.
+- `main.py`: Python script implementing the ETL pipeline.
 - `log_file.txt`: Log file recording the progress of the ETL process.
 - `transformed_data.csv`: CSV file where the transformed data is loaded.
 
@@ -58,5 +58,3 @@ This repository contains a simple ETL (Extract, Transform, Load) script named `m
 ## Logs
 
 Review the `log_file.txt` for detailed information on the progress of each phase in the ETL process.
-
-Feel free to adapt and extend this ETL pipeline for your specific data processing needs. Contributions and improvements are welcome. If you encounter any issues or have suggestions, please create an issue in the repository.
