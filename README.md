@@ -1,6 +1,6 @@
 # ETL Practice Project
 
-This repository contains a simple ETL (Extract, Transform, Load) script named `etl_practice.py` that processes data from CSV, JSON, and XML files. The script downloads data from a provided link, extracts information, transforms the 'price' values, and loads the transformed data into a CSV file. The ETL process is logged at different stages to track progress.
+This repository contains a simple ETL (Extract, Transform, Load) script named `main.py` that processes data from CSV, JSON, and XML files. The script downloads data from a provided link, extracts information, transforms the 'price' values, and loads the transformed data into a CSV file. The ETL process is logged at different stages to track progress.
 
 ## Project Structure
 
