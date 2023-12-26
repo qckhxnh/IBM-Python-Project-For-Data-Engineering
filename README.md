@@ -34,7 +34,7 @@ This repository contains a simple ETL (Extract, Transform, Load) script named `m
 4. **Run the ETL Pipeline:**
    Execute the ETL pipeline script:
    ```bash
-   python etl_practice.py
+   python main.py
    ```
 
 5. **Check the Output:**
